@@ -1,7 +1,7 @@
 # Coding Dojo - Serienbrief.Net
  
-##Porierung
- Hierbei handelt es sich um eine Portierung nach C# von [Coding Dojo - Serienbief](https://github.com/christophsuter/serienbrief/README.md).
+##Portierung
+ Hierbei handelt es sich um eine Portierung nach C# von [Coding Dojo - Serienbief](https://github.com/christophsuter/serienbrief/).
  
  In diesem Beispielprojekt können Serienbriefe generiert werden. Diese werden dann von einer fiktiven
  Template Engine gerendert. 
